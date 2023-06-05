@@ -1,0 +1,27 @@
+{
+  "data":  [
+    {
+      "place": "Cairo Tower",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Cairotower.jpg",
+      "location": "Cairo",
+      "price": "$5"
+    },
+    {
+      "place": "Zamalek",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/00/4f/09/caption.jpg?w=300&h=300&s=1",
+      "location": "Cairo"
+    },
+    {
+      "place": "citadel of saladin",
+      "image": "https://admin.ask-aladdin.com/storage/the-citadel-of-saladin-1673868238baj49.jpg",
+      "location": "Cairo",
+      "price": "$12"
+    },
+    {
+      "place": "Take a day trip to Saqqara and Dashur",
+      "image": "https://www.planetware.com/photos-large/EGY/egypt-saqqara-step-pyramid.jpg",
+      "location": "Cairo",
+      "price": "$60"
+    }
+  ]
+}
